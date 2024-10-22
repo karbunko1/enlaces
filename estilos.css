@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 2px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.hora {
+    width: 10%; /* Ajusta el ancho según sea necesario */
+}
+
+.partido {
+    width: 70%; /* Ajusta el ancho según sea necesario */
+}
+
+.enlace {
+    width: 10%; /* Ajusta el ancho según sea necesario */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 2px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Estilo para la columna de Hora en vertical */
+td.hora {
+    background-color: #e7e7e7;  /* Fondo gris claro para la columna Hora */
+    height: 30px;               /* Ajusta la altura según sea necesario */
+    vertical-align: middle;      /* Centra verticalmente el contenido */
+    text-align: center;          /* Centra horizontalmente el texto */
+}
+
+.hora-texto {
+    writing-mode: vertical-rl;  /* Cambia la dirección del texto a vertical */
+    transform: rotate(180deg);   /* Rota el texto 180 grados */
+    display: inline-block;        /* Permite la rotación en el contenedor */
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.partido {
+    width: 80%; /* Ajusta el ancho según sea necesario */
+}
+
+.enlace {
+    width: 10%; /* Ajusta el ancho según sea necesario */
+}
+
