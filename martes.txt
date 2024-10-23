@@ -1,0 +1,23 @@
+MARTES
+HD1 ENGLISH
+HD5 ENGLISH
+
+BR1 BRAZILIAN
+BR2 BRAZILIAN
+BR3 BRAZILIAN
+BR4 BRAZILIAN
+
+23:00   NHL: NY Rangers @ Montreal | https://v5.sportsonline.si/channels/pt/sporttv3.php | portugues
+23:30   Fluminense x Athletico-PR | https://v5.sportsonline.si/channels/bra/br1.php | portugues
+23:00   Santos x CearÃ¡ | https://v5.sportsonline.si/channels/bra/br3.php | portugues
+00:30   NBA: New York Knicks @ Boston Celtics | https://v5.sportsonline.si/channels/hd/hd1.php | ingles
+00:30   NBA: New York Knicks @ Boston Celtics | https://v5.sportsonline.si/channels/pt/sporttv2.php | portugues
+01:30   AtlÃ©tico Mineiro x River Plate | https://v5.sportsonline.si/channels/hd/hd5.php | ingles
+01:30   AtlÃ©tico Mineiro x River Plate | https://v5.sportsonline.si/channels/hd/hd6.php | español
+01:30   AtlÃ©tico Mineiro x River Plate | https://v5.sportsonline.si/channels/pt/sporttv1.php | portugues
+01:30   AtlÃ©tico Mineiro x River Plate | https://v5.sportsonline.si/channels/bra/br2.php | portugues
+01:30   Vila Nova x Amazonas | https://v5.sportsonline.si/channels/bra/br3.php | portugues
+01:30   Novorizontino x AvaÃ­ | https://v5.sportsonline.si/channels/bra/br4.php | portugues
+03:00   NBA: Minnesota Timberwolves @ Los Angeles Lakers | https://v5.sportsonline.si/channels/hd/hd1.php | ingles
+03:00   NBA: Minnesota Timberwolves @ Los Angeles Lakers | https://v5.sportsonline.si/channels/pt/sporttv2.php | portugues
+
