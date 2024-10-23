@@ -1,11 +1,35 @@
-import datetime
+name: Generar HTML diario
 
-# Obtener el día de la semana en español
-dias_semana = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo']
-dia_actual = datetime.datetime.now().weekday()  # 0 = lunes, 6 = domingo
-archivo_entrada = f'{dias_semana[dia_actual]}.txt'  # Archivo correspondiente al día de la semana
+on:
+  schedule:
+    # Ejecutar el flujo de trabajo todos los días a las 00:00 (UTC)
+    - cron: '0 0 * * *'
 
-# El resto de tu código se mantiene igual
-archivo_salida = 'horario.html'  # Nombre del archivo de salida
-convertir_horario_a_html(archivo_entrada, archivo_salida)
-print(f'Se ha generado el horario en HTML: {archivo_salida}')
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
+
+    - name: Instalar dependencias
+      run: |
+        pip install -r requirements.txt  # Solo si tienes dependencias, de lo contrario, puedes eliminar esta línea
+
+    - name: Ejecutar script para generar archivo HTML
+      run: |
+        python convertir_horario.py  # Aquí asegúrate de que el nombre coincida con tu script
+
+    - name: Commit HTML resultante
+      run: |
+        git config --local user.email "tu-email@ejemplo.com"
+        git config --local user.name "tu-nombre"
+        git add horario.html
+        git commit -m "Actualización diaria del archivo HTML"
+        git push
