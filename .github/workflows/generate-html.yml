@@ -18,13 +18,9 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Instalar dependencias
-      run: |
-        pip install -r requirements.txt  # Solo si tienes dependencias, de lo contrario, puedes eliminar esta línea
-
     - name: Ejecutar script para generar archivo HTML
       run: |
-        python convertir_horario.py  # Aquí asegúrate de que el nombre coincida con tu script
+        python convertir_horario.py  # Asegúrate de que el nombre coincida con tu script
 
     - name: Commit HTML resultante
       run: |
@@ -33,3 +29,4 @@ jobs:
         git add horario.html
         git commit -m "Actualización diaria del archivo HTML"
         git push
+
