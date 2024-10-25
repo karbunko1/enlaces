@@ -24,9 +24,12 @@ jobs:
 
     - name: Commit HTML resultante
       run: |
-        git config --local user.email "tu-email@ejemplo.com"
-        git config --local user.name "tu-nombre"
+        git config --global user.email "tu-email@ejemplo.com"
+        git config --global user.name "tu-nombre"
         git add horario.html
         git commit -m "Actualización diaria del archivo HTML"
-        git push
-
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@v1
+      with:
+        github_token: ${{ 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}}  # Utiliza el token que agregaste
