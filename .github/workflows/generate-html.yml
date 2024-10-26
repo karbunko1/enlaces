@@ -28,8 +28,4 @@ jobs:
         git config --global user.name "tu-nombre"
         git add horario.html
         git commit -m "Actualización diaria del archivo HTML"
-    
-    - name: Push changes
-      uses: ad-m/github-push-action@v1
-      with:
-        github_token: ${{ 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}}  # Utiliza el token que agregaste
+        git push
