@@ -20,13 +20,12 @@ jobs:
 
     - name: Ejecutar script para generar archivo HTML
       run: |
-        cd enlaces-main  # Cambiar al directorio donde están los archivos
-        python .github/workflows/convertir_horario.py  # Ejecutar el script desde la nueva ruta
+        python .github/workflows/convertir_horario.py  # Ruta al script en el directorio actual
 
     - name: Commit HTML resultante
       run: |
         git config --global user.email "tu-email@ejemplo.com"
         git config --global user.name "tu-nombre"
-        git add enlaces-main/horario.html  # Asegúrate de que la ruta sea correcta
+        git add horario.html  # Agrega el archivo HTML generado
         git commit -m "Actualización diaria del archivo HTML"
         git push
