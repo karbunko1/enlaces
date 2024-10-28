@@ -20,7 +20,7 @@ jobs:
 
     - name: Ejecutar script para generar archivo HTML
       run: |
-        python .github/workflows/convertir_horario.py  # Ruta al script en el directorio actual
+        python convertir_horario.py  # Ejecuta el script desde la raíz del repositorio
 
     - name: Commit HTML resultante
       run: |
