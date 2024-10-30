@@ -42,6 +42,9 @@ tr:hover {
 .partido {
     width: 70%; /* Ajusta el ancho según sea necesario */
 }
+.idioma {
+    width: 20%;  /* Nueva columna para el idioma */
+}
 
 .enlace {
     width: 10%; /* Ajusta el ancho según sea necesario */
@@ -66,7 +69,7 @@ table {
 }
 
 th, td {
-    border: 2px solid #ddd;
+    border: 3px solid #ddd;
     padding: 8px;
     text-align: left;
 }
