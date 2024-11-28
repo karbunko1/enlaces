@@ -20,59 +20,41 @@ th, td {
     border: 3px solid #ddd;
     padding: 8px;
     text-align: left;
+    background-color: #f2f2f2; /* Fondo gris para todas las celdas */
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: #4CAF50;  /* Fondo verde para todos los encabezados */
     color: white;
 }
 
-tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
-
+/* Estilo para las celdas al pasar el ratón */
 tr:hover {
     background-color: #ddd;
 }
 
-/* Ajuste de ancho y estilo para las columnas */
 .hora {
     width: 10%;
-    text-align: center;
 }
 
 .partido {
-    width: 40%; /* Ancho ajustado para hacerla menos ancha */
-    text-align: left;
+    width: 50%;
 }
 
 .idioma {
-    width: 20%;  
-    text-align: center;
-}
-
-.enlace {
-    width: 10%; 
-    text-align: center;
+    width: 15%;
 }
 
 .deportes {
-    width: 20%;
-    text-align: center;
-    padding: 8px;
-    border: 1px solid #ddd;
-}
-
-/* Estilo adicional para la columna de Hora en vertical */
-td.hora {
-    background-color: #e7e7e7;
-    height: 30px;
-    vertical-align: middle;
+    width: 15%;
     text-align: center;
 }
 
-.hora-texto {
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
-    display: inline-block;
+.deportes th {  /* Solo el título de la columna Deportes tiene el fondo verde */
+    background-color: #4CAF50;
+    color: white;
+}
+
+.enlace {
+    width: 10%;
 }
