@@ -1,0 +1,323 @@
+Liga Italiana (Serie A)
+AC Milan|Italia
+AS Roma|Italia
+Atalanta|Italia
+Bologna|Italia
+Cagliari|Italia
+Empoli|Italia
+Fiorentina|Italia
+Genoa|Italia
+Inter de Milán|Italia
+Juventus|Italia
+Lazio|Italia
+Lecce|Italia
+Monza|Italia
+Napoli|Italia
+Salernitana|Italia
+Sassuolo|Italia
+Torino|Italia
+Udinese|Italia
+Verona|Italia
+
+
+
+
+Liga Colombiana (Categoría Primera A)
+Atlético Nacional|Colombiana
+Millonarios|Colombiana
+América de Cali|Colombiana
+Independiente Santa Fe|Colombiana
+Junior|Colombiana
+Deportivo Cali|Colombiana
+Independiente Medellín|Colombiana
+Once Caldas|Colombiana
+Deportes Tolima|Colombiana
+La Equidad|Colombiana
+Alianza Petrolera|Colombiana
+Boyacá Chicó|Colombiana
+Jaguares de Córdoba|Colombiana
+Atlético Huila|Colombiana
+Envigado|Colombiana
+Águilas Doradas|Colombiana
+Deportivo Pasto|Colombiana
+Unión Magdalena|Colombiana
+
+
+
+
+
+
+
+
+Liga Mexicana (Liga MX)
+América |Mexicana
+Guadalajara (Chivas) |Mexicana
+Tigres UANL |Mexicana
+Monterrey |Mexicana
+Cruz Azul |Mexicana
+Pumas UNAM |Mexicana
+Toluca |Mexicana
+León |Mexicana
+Pachuca |Mexicana
+Santos Laguna |Mexicana
+Atlas |Mexicana
+Tijuana |Mexicana
+Querétaro |Mexicana
+Puebla |Mexicana
+Mazatlán |Mexicana
+Necaxa |Mexicana
+Juárez |Mexicana
+Atlético San Luis |Mexicana
+
+
+
+
+
+
+
+
+Liga Argentina (Primera División)
+River Plate |Argentina
+Boca Juniors |Argentina
+Racing Club |Argentina
+Independiente |Argentina
+San Lorenzo |Argentina
+Vélez Sarsfield |Argentina
+Estudiantes |Argentina
+Gimnasia y Esgrima La Plata |Argentina
+Rosario Central |Argentina
+Newell's Old Boys |Argentina
+Huracán |Argentina
+Argentinos Juniors |Argentina
+Banfield |Argentina
+Lanús |Argentina
+Talleres |Argentina
+Colón |Argentina
+Unión |Argentina
+Godoy Cruz |Argentina
+Defensa y Justicia |Argentina
+Atlético Tucumán |Argentina
+Central Córdoba |Argentina
+Platense |Argentina
+Arsenal de Sarandí |Argentina
+Sarmiento |Argentina
+
+
+
+
+
+
+Liga Portuguesa (Primeira Liga)
+Benfica |Portuguesa
+Porto |Portuguesa
+Sporting CP |Portuguesa
+Braga |Portuguesa
+Vitória SC (Guimarães) |Portuguesa
+Boavista |Portuguesa
+Estoril Praia |Portuguesa
+Portimonense |Portuguesa
+Rio Ave |Portuguesa
+Famalicão |Portuguesa
+Casa Pia |Portuguesa
+Vizela |Portuguesa
+Gil Vicente |Portuguesa
+Chaves |Portuguesa
+Arouca |Portuguesa
+Moreirense |Portuguesa
+Farense |Portuguesa
+Estrela da Amadora |Portuguesa
+Farense |Portuguesa
+Estrela |Portuguesa
+
+
+Eredivisie (Holanda)
+Ajax|Holanda
+PSV Eindhoven|Holanda
+Feyenoord|Holanda
+AZ Alkmaar|Holanda
+Twente|Holanda
+Utrecht|Holanda
+Vitesse|Holanda
+Heerenveen|Holanda
+Groningen|Holanda
+Sparta Rotterdam|Holanda
+NEC Nijmegen|Holanda
+Fortuna Sittard|Holanda
+Cambuur|Holanda
+Go Ahead Eagles|Holanda
+RKC Waalwijk|Holanda
+Excelsior|Holanda
+Heracles Almelo|Holanda
+PEC Zwolle|Holanda
+FC Volendam|Holanda
+Almere City|Holanda
+
+
+Qatar Stars League (Qatar)
+Al-Duhail|Qatar
+Al-Sadd|Qatar
+Al-Rayyan|Qatar
+Al-Arabi|Qatar
+Al-Gharafa|Qatar
+Umm Salal|Qatar
+Al-Wakrah|Qatar
+Al-Khor|Qatar
+Al-Ahli|Qatar
+Qatar SC|Qatar
+Al-Markhiya|Qatar
+Al-Shamal|Qatar
+
+
+
+
+Saudi Pro League (Arabia Saudita)
+Al-Nassr|Arabia Saudita
+Al-Hilal|Arabia Saudita
+Al-Ittihad|Arabia Saudita
+Al-Ahli Saudi|Arabia Saudita
+Al-Ettifaq|Arabia Saudita
+Al-Fateh|Arabia Saudita
+Al-Shabab|Arabia Saudita
+Al-Taawoun|Arabia Saudita
+Al-Wehda|Arabia Saudita
+Abha|Arabia Saudita
+Al-Faisaly|Arabia Saudita
+Damac|Arabia Saudita
+Al-Adalah|Arabia Saudita
+Al-Raed|Arabia Saudita
+Al-Hazem|Arabia Saudita
+Al-Khaleej|Arabia Saudita
+
+
+
+
+Ligue 1 (Francia)
+Paris Saint-Germain|Francia
+Olympique de Marsella|Francia
+Lyon|Francia
+Monaco|Francia
+Rennes|Francia
+Lille|Francia
+Nice|Francia
+Strasbourg|Francia
+Montpellier|Francia
+Reims|Francia
+Toulouse|Francia
+Nantes|Francia
+Lens|Francia
+Angers|Francia
+Clermont Foot|Francia
+Ajaccio|Francia
+Brest|Francia
+Auxerre|Francia
+Troyes|Francia
+Metz|Francia
+
+
+
+
+
+Premier League (Inglaterra)
+Manchester City|Inglaterra
+Arsenal|Inglaterra
+Manchester United|Inglaterra
+Liverpool|Inglaterra
+Chelsea|Inglaterra
+Tottenham Hotspur|Inglaterra
+Newcastle United|Inglaterra
+Aston Villa|Inglaterra
+Brighton & Hove Albion|Inglaterra
+West Ham United|Inglaterra
+Leeds United|Inglaterra
+Crystal Palace|Inglaterra
+Wolverhampton Wanderers|Inglaterra
+Fulham|Inglaterra
+Brentford|Inglaterra
+Leicester City|Inglaterra
+Southampton|Inglaterra
+Everton|Inglaterra
+Nottingham Forest|Inglaterra
+Burnley|Inglaterra
+Sheffield United|Inglaterra
+Sunderland|Inglaterra	
+
+
+
+
+
+
+
+
+
+Liga Turca (Süper Lig)
+Adana Demirspor|Turquía
+Alanyaspor|Turquía
+Antalyaspor|Turquía
+Beşiktaş|Turquía
+Çaykur Rizespor|Turquía
+Fenerbahçe|Turquía
+Galatasaray|Turquía
+Gaziantep FK|Turquía
+Hatayspor|Turquía
+Istanbul Başakşehir|Turquía
+Istanbulspor|Turquía
+Kasımpaşa|Turquía
+Kayserispor|Turquía
+Konyaspor|Turquía
+Pendikspor|Turquía
+Samsunspor|Turquía
+Sivasspor|Turquía
+Trabzonspor|Turquía
+
+
+Liga Española (LaLiga)
+Alavés|España
+Almería|España
+Athletic Club|España
+Atlético de Madrid|España
+Barcelona|España
+Cádiz|España
+Celta de Vigo|España
+Getafe|España
+Girona|España
+Granada|España
+Las Palmas|España
+Mallorca|España
+Osasuna|España
+Rayo Vallecano|España
+Real Betis|España
+Real Madrid|España
+Real Sociedad|España
+Sevilla|España
+Valencia|España
+Villarreal|España
+
+
+
+Liga Alemana (Bundesliga)
+Augsburgo|Alemania
+Bayer Leverkusen|Alemania
+Bayern de Múnich|Alemania
+Borussia Dortmund|Alemania
+Borussia Mönchengladbach|Alemania
+Colonia|Alemania
+Darmstadt|Alemania
+Eintracht Frankfurt|Alemania
+Friburgo|Alemania
+Heidenheim|Alemania
+Hoffenheim|Alemania
+Mainz 05|Alemania
+RB Leipzig|Alemania
+Stuttgart|Alemania
+Union Berlín|Alemania
+Werder Bremen|Alemania
+Wolfsburgo|Alemania
+Magdeburg | Alemania
+Hertha BSC | Alemania
+Paderborn | Alemania
+Schalke 04 | Alemania
+Kaiserslautern | Alemania
+St. Pauli | Alemania
+Holstein Kiel | Alemania
+
+
