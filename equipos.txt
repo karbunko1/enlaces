@@ -20,6 +20,72 @@ Udinese| Serie A
 Verona| Serie A
 
 
+Atlético Mineiro x Botafogo | Copa Libertadores
+
+
+
+Liga Brasileña (Serie A)
+Botafogo | Brasil Serie A
+Palmeiras | Brasil Serie A
+Flamengo | Brasil Serie A
+Grêmio | Brasil Serie A
+Atlético Mineiro | Brasil Serie A
+Fluminense | Brasil Serie A
+São Paulo | Brasil Serie A
+Internacional | Brasil Serie A
+Athletico Paranaense | Brasil Serie A
+Fortaleza | Brasil Serie A
+Corinthians | Brasil Serie A
+Cruzeiro | Brasil Serie A
+Bahia | Brasil Serie A
+Cuiabá | Brasil Serie A
+Goiás | Brasil Serie A
+Santos | Brasil Serie A
+Coritiba | Brasil Serie A
+Vasco da Gama | Brasil Serie A
+América Mineiro | Brasil Serie A
+Red Bull Bragantino | Brasil Serie A
+
+
+
+Liga Japonesa (J1 League)
+Kawasaki Frontale | J1 League
+Yokohama F. Marinos | J1 League
+Nagoya Grampus | J1 League
+Sanfrecce Hiroshima | J1 League
+Urawa Red Diamonds | J1 League
+Cerezo Osaka | J1 League
+Kashima Antlers | J1 League
+Gamba Osaka | J1 League
+FC Tokyo | J1 League
+Shimizu S-Pulse | J1 League
+Kashiwa Reysol | J1 League
+Consadole Sapporo | J1 League
+Avispa Fukuoka | J1 League
+Sagan Tosu | J1 League
+Vissel Kobe | J1 League
+Oita Trinita | J1 League
+Shonan Bellmare | J1 League
+Tokushima Vortis | J1 League
+
+
+
+Liga Australiana (A-League)
+Melbourne City | A-League
+Sydney FC | A-League
+Western Sydney Wanderers | A-League
+Adelaide United | A-League
+Brisbane Roar | A-League
+Perth Glory | A-League
+Newcastle Jets | A-League
+Central Coast Mariners | A-League
+Western United | A-League
+Macarthur FC | A-League
+Melbourne Victory | A-League
+Wellington Phoenix | A-League
+
+
+
 
 
 Liga Colombiana (Categoría Primera A)
@@ -128,6 +194,29 @@ Farense | Primeira Liga
 Estrela da Amadora | Primeira Liga
 Farense | Primeira Liga
 Estrela | Primeira Liga
+
+
+Segunda División de Portugal (Liga Portugal 2)
+Felgueiras 1932 | Liga Portugal 2
+Torreense | Liga Portugal 2
+Académico de Viseu | Liga Portugal 2
+Belenenses | Liga Portugal 2
+CD Mafra | Liga Portugal 2
+CD Nacional | Liga Portugal 2
+Estrela Amadora | Liga Portugal 2
+Feirense | Liga Portugal 2
+Leixões SC | Liga Portugal 2
+Moreirense | Liga Portugal 2
+Oliveirense | Liga Portugal 2
+Penafiel | Liga Portugal 2
+SC Covilhã | Liga Portugal 2
+Tondela | Liga Portugal 2
+Torreense | Liga Portugal 2
+Varzim SC | Liga Portugal 2
+Vilafranquense | Liga Portugal 2
+FC Porto B | Liga Portugal 2
+SL Benfica B | Liga Portugal 2
+Sporting CP B | Liga Portugal 2
 
 
 Eredivisie (Holanda)
@@ -239,7 +328,9 @@ Everton| Premier League
 Nottingham Forest| Premier League
 Burnley| Premier League
 Sheffield United| Premier League
-Sunderland| Premier League	
+Sunderland| Premier League
+Wealdstone | Premier League
+Wycombe Wanderers | Premier League	
 
 
 
@@ -291,6 +382,8 @@ Real Sociedad| LaLiga
 Sevilla| LaLiga
 Valencia| LaLiga
 Villarreal| LaLiga
+Real Valladolid | LaLiga
+Atlético Madrid | LaLiga
 
 
 
@@ -319,5 +412,7 @@ Schalke 04 | Bundesliga
 Kaiserslautern | Bundesliga
 St. Pauli | Bundesliga
 Holstein Kiel | Bundesliga
+Köln | Bundesliga
+Hannover 96 | Bundesliga
 
 
