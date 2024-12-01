@@ -19,6 +19,21 @@ Torino| Serie A
 Udinese| Serie A
 Verona| Serie A
 
+Liga Nacional de Futsal (LNF)
+Carlos Barbosa | LNF Brasil
+Atlântico Erechim | LNF Brasil
+Magnus Futsal | LNF Brasil
+Corinthians Futsal | LNF Brasil
+Copagril | LNF Brasil
+Joinville | LNF Brasil
+Minas Tênis Clube | LNF Brasil
+São José Futsal | LNF Brasil
+Jaraguá Futsal | LNF Brasil
+Pato Futsal | LNF Brasil
+Assoeva | LNF Brasil
+Cascavel Futsal | LNF Brasil
+Fortaleza | LNF Brasil
+Apodi | LNF Brasil
 
 
 liga griega (Super League Greece),
@@ -113,26 +128,26 @@ Córdoba | LaLiga Hypermotion
 
 
 Liga Brasileña (Serie A)
-Botafogo | Brasil Serie A
-Palmeiras | Brasil Serie A
-Flamengo | Brasil Serie A
-Grêmio | Brasil Serie A
-Atlético Mineiro | Brasil Serie A
-Fluminense | Brasil Serie A
-São Paulo | Brasil Serie A
-Internacional | Brasil Serie A
-Athletico Paranaense | Brasil Serie A
-Fortaleza | Brasil Serie A
-Corinthians | Brasil Serie A
-Cruzeiro | Brasil Serie A
-Bahia | Brasil Serie A
-Cuiabá | Brasil Serie A
-Goiás | Brasil Serie A
-Santos | Brasil Serie A
-Coritiba | Brasil Serie A
-Vasco da Gama | Brasil Serie A
-América Mineiro | Brasil Serie A
-Red Bull Bragantino | Brasil Serie A
+Botafogo | LNF Brasil Serie A
+Palmeiras | LNF Brasil Serie A
+Flamengo | LNF Brasil Serie A
+Grêmio | LNF Brasil Serie A
+Atlético Mineiro | LNF Brasil Serie A
+Fluminense | LNF Brasil Serie A
+São Paulo | LNF Brasil Serie A
+Internacional | LNF Brasil Serie A
+Athletico Paranaense | LNF Brasil Serie A
+Fortaleza | LNF Brasil Serie A
+Corinthians | LNF Brasil Serie A
+Cruzeiro | LNF Brasil Serie A
+Bahia | LNF Brasil Serie A
+Cuiabá | LNF Brasil Serie A
+Goiás | LNF Brasil Serie A
+Santos | LNF Brasil Serie A
+Coritiba | LNF Brasil Serie A
+Vasco da Gama | LNF Brasil Serie A
+América Mineiro | LNF Brasil Serie A
+Red Bull Bragantino | LNF Brasil Serie A
 
 
 
