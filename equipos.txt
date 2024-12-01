@@ -181,7 +181,6 @@ Atlético Nacional| Categoría Primera A
 Millonarios| Categoría Primera A
 América de Cali| Categoría Primera A
 Independiente Santa Fe| Categoría Primera A
-Junior| Categoría Primera A
 Deportivo Cali| Categoría Primera A
 Independiente Medellín| Categoría Primera A
 Once Caldas| Categoría Primera A
@@ -231,30 +230,31 @@ Atlético San Luis | Liga MX
 
 
 Liga Argentina (Primera División)
-River Plate |Argentina
-Boca Juniors |Argentina
-Racing Club |Argentina
-Independiente |Argentina
-San Lorenzo |Argentina
-Vélez Sarsfield |Argentina
-Estudiantes |Argentina
-Gimnasia y Esgrima La Plata |Argentina
-Rosario Central |Argentina
-Newell's Old Boys |Argentina
-Huracán |Argentina
-Argentinos Juniors |Argentina
-Banfield |Argentina
-Lanús |Argentina
-Talleres |Argentina
-Colón |Argentina
-Unión |Argentina
-Godoy Cruz |Argentina
-Defensa y Justicia |Argentina
-Atlético Tucumán |Argentina
-Central Córdoba |Argentina
-Platense |Argentina
-Arsenal de Sarandí |Argentina
-Sarmiento |Argentina
+River Plate | Argentina Primera División
+Boca Juniors | Argentina Primera División
+Racing Club | Argentina Primera División
+Independiente | Argentina Primera División
+San Lorenzo | Argentina Primera División
+Vélez Sarsfield | Argentina Primera División
+Estudiantes | Argentina Primera División
+Rosario Central | Argentina Primera División
+Newell's Old Boys | Argentina Primera División
+Huracán | Argentina Primera División
+Argentinos Juniors | Argentina Primera División
+Banfield | Argentina Primera División
+Lanús | Argentina Primera División
+Talleres | Argentina Primera División
+Colón | Argentina Primera División
+Unión | Argentina Primera División
+Godoy Cruz | Argentina Primera División
+Defensa y Justicia | Argentina Primera División
+Atlético Tucumán | Argentina Primera División
+Central Córdoba | Argentina Primera División
+Platense | Argentina Primera División
+Arsenal de Sarandí | Argentina Primera División
+Sarmiento | Argentina Primera División
+Gimnasia La Plata | Argentina Primera División
+
 
 
 
