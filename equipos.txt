@@ -20,7 +20,95 @@ Udinese| Serie A
 Verona| Serie A
 
 
-Atlético Mineiro x Botafogo | Copa Libertadores
+
+liga griega (Super League Greece),
+AEK Athens | Super League Greece
+Aris Thessaloniki | Super League Greece
+Asteras Tripolis | Super League Greece
+Atromitos | Super League Greece
+Ionikos | Super League Greece
+Lamia | Super League Greece
+Levadiakos | Super League Greece
+OFI Crete | Super League Greece
+Olympiacos | Super League Greece
+Panathinaikos | Super League Greece
+Panetolikos | Super League Greece
+PAOK | Super League Greece
+PAS Giannina | Super League Greece
+Volos | Super League Greece
+
+
+
+segunda división de Inglaterra (EFL Championship)
+Birmingham City | EFL Championship
+Blackburn Rovers | EFL Championship
+Bristol City | EFL Championship
+Cardiff City | EFL Championship
+Coventry City | EFL Championship
+Huddersfield Town | EFL Championship
+Hull City | EFL Championship
+Ipswich Town | EFL Championship
+Leeds United | EFL Championship
+Leicester City | EFL Championship
+Middlesbrough | EFL Championship
+Millwall | EFL Championship
+Norwich City | EFL Championship
+Plymouth Argyle | EFL Championship
+Preston North End | EFL Championship
+Queens Park Rangers | EFL Championship
+Rotherham United | EFL Championship
+Sheffield Wednesday | EFL Championship
+Southampton | EFL Championship
+Stoke City | EFL Championship
+Sunderland | EFL Championship
+Swansea City | EFL Championship
+Watford | EFL Championship
+West Bromwich Albion | EFL Championship
+Derby County | EFL Championship
+
+
+
+
+Liga Escocesa (Scottish Premiership)
+Aberdeen | Scottish Premiership
+Celtic | Scottish Premiership
+Dundee | Scottish Premiership
+Heart of Midlothian | Scottish Premiership
+Hibernian | Scottish Premiership
+Kilmarnock | Scottish Premiership
+Livingston | Scottish Premiership
+Motherwell | Scottish Premiership
+Rangers | Scottish Premiership
+Ross County | Scottish Premiership
+St. Johnstone | Scottish Premiership
+St. Mirren | Scottish Premiership
+St. Johnstone | Scottish Premiership
+Rangers | Scottish Premiership
+
+
+
+Segunda División Española (LaLiga Hypermotion)
+Albacete | LaLiga Hypermotion
+Alcorcón | LaLiga Hypermotion
+Andorra | LaLiga Hypermotion
+Burgos | LaLiga Hypermotion
+Eibar | LaLiga Hypermotion
+Elche | LaLiga Hypermotion
+Espanyol | LaLiga Hypermotion
+Ferrol | LaLiga Hypermotion
+Huesca | LaLiga Hypermotion
+Levante | LaLiga Hypermotion
+Leganés | LaLiga Hypermotion
+Mirandés | LaLiga Hypermotion
+Racing Santander | LaLiga Hypermotion
+Racing de Ferrol | LaLiga Hypermotion
+Real Oviedo | LaLiga Hypermotion
+Real Valladolid | LaLiga Hypermotion
+Sporting Gijón | LaLiga Hypermotion
+Tenerife | LaLiga Hypermotion
+Villarreal B | LaLiga Hypermotion
+Zaragoza | LaLiga Hypermotion
+Córdoba | LaLiga Hypermotion
 
 
 
