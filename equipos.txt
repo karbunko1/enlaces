@@ -19,6 +19,36 @@ Torino| Serie A
 Udinese| Serie A
 Verona| Serie A
 
+
+
+
+
+AFC Liga de Campeones Élite
+Persepolis | AFC Liga de Campeones Élite
+Al Shorta | AFC Liga de Campeones Élite
+Al Ahli | AFC Liga de Campeones Élite
+Esteghlal | AFC Liga de Campeones Élite
+
+La Liga Rumana de Fútbol (Superliga)
+Universitatea Cluj | Superliga
+Universitatea Craiova | Superliga
+Steaua Bucarest | Superliga
+Rapid Bucarest | Superliga
+Dinamo Bucarest | Superliga
+Sepsi OSK | Superliga
+FC Argeș | Superliga
+FC Hermannstadt | Superliga
+Farul Constanța | Superliga
+UTA Arad | Superliga
+FC Voluntari | Superliga
+FC Petrolul Ploiești | Superliga
+FC Botoșani | Superliga
+FCV Farul | Superliga
+Unirea Slobozia | Superliga
+CSMS Iași | Superliga
+
+
+
 Liga Nacional de Futsal (LNF)
 Carlos Barbosa | LNF Brasil
 Atlântico Erechim | LNF Brasil
