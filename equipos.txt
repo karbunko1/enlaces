@@ -28,6 +28,11 @@ Persepolis | AFC Liga de Campeones Élite
 Al Shorta | AFC Liga de Campeones Élite
 Al Ahli | AFC Liga de Campeones Élite
 Esteghlal | AFC Liga de Campeones Élite
+Al Nassr | AFC Liga de Campeones Élite
+Al Sadd | AFC Liga de Campeones Élite
+
+
+
 
 La Liga Rumana de Fútbol (Superliga)
 Universitatea Cluj | Superliga
@@ -46,6 +51,8 @@ FC Botoșani | Superliga
 FCV Farul | Superliga
 Unirea Slobozia | Superliga
 CSMS Iași | Superliga
+Oţelul | Superliga
+FCSB | Superliga
 
 
 
@@ -153,7 +160,7 @@ Sporting Gijón | LaLiga Hypermotion
 Tenerife | LaLiga Hypermotion
 Villarreal B | LaLiga Hypermotion
 Zaragoza | LaLiga Hypermotion
-Córdoba | LaLiga Hypermotion
+Córdoba(esp) | LaLiga Hypermotion
 
 
 
@@ -288,7 +295,6 @@ Huracán | Argentina Primera División
 Argentinos Juniors | Argentina Primera División
 Banfield | Argentina Primera División
 Lanús | Argentina Primera División
-Talleres | Argentina Primera División
 Colón | Argentina Primera División
 Unión | Argentina Primera División
 Godoy Cruz | Argentina Primera División
@@ -299,7 +305,8 @@ Platense | Argentina Primera División
 Arsenal de Sarandí | Argentina Primera División
 Sarmiento | Argentina Primera División
 Gimnasia La Plata | Argentina Primera División
-
+Talleres Córdoba | Argentina Primera División
+Huracán | Argentina Primera División
 
 
 
