@@ -20,7 +20,10 @@ Udinese| Serie A
 Verona| Serie A
 
 
-
+Sant Andreu VS Real Betis | Copa del rey
+Karlsruher SC VS Augsburg | Copa Alemana
+Ejea VS Valencia | Copa del rey
+UD Logroñés VS Girona | Copa del rey
 
 
 AFC Liga de Campeones Élite
@@ -92,6 +95,8 @@ Panetolikos | Super League Greece
 PAOK | Super League Greece
 PAS Giannina | Super League Greece
 Volos | Super League Greece
+Olympiakos Piraeus | Super League Greece
+Kallithea | Super League Greece
 
 
 
