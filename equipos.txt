@@ -18,17 +18,12 @@ Sassuolo| Serie A
 Torino| Serie A
 Udinese| Serie A
 Verona| Serie A
+Internazionale | Serie A
+Parma | Serie A
 
 
 
-
-Cacereño VS Atlético Madrid | Copa del rey
-Orihuela VS Getafe | Copa del rey
-Ceuta VS Osasuna | Copa del rey
-Deportiva Minera VS Deportivo Alavés | Copa del rey
-Olot VS Sevilla | Copa del rey
-Conquense VS Real Sociedad | Copa del rey
-FIFA Club World Cup Draw | Sorteo del  Mundial de Clubes 
+Sagrada Esperança VS ES Tunis | Liga de Campeones de la CAF
 
 
 
@@ -236,6 +231,7 @@ Coritiba | Brasil Serie A
 Vasco da Gama | Brasil Serie A
 América Mineiro | Brasil Serie A
 Red Bull Bragantino | Brasil Serie A
+
 
 
 
@@ -605,5 +601,7 @@ St. Pauli | Bundesliga
 Holstein Kiel | Bundesliga
 Köln | Bundesliga
 Hannover 96 | Bundesliga
+Elversberg | Bundesliga
+Nürnberg | Bundesliga
 
 
