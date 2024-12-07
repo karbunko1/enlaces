@@ -24,6 +24,7 @@ Parma | Serie A
 
 
 Sagrada Esperança VS ES Tunis | Liga de Campeones de la CAF
+Orlando Pirates VS Al Ahly | Liga de Campeones de la CAF
 
 
 
@@ -404,6 +405,8 @@ Vilafranquense | Liga Portugal 2
 FC Porto B | Liga Portugal 2
 SL Benfica B | Liga Portugal 2
 Sporting CP B | Liga Portugal 2
+Leixões | Liga Portugal 2
+Felgueiras | Liga Portugal 2
 
 
 Eredivisie (Holanda)
