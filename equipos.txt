@@ -25,8 +25,16 @@ Parma | Serie A
 
 Sagrada Esperança VS ES Tunis | Liga de Campeones de la CAF
 Orlando Pirates VS Al Ahly | Liga de Campeones de la CAF
+Djoliba | Liga de Campeones de la CAF
+Pyramids FC | Liga de Campeones de la CAF
+Orapa United | Copa Confederación de la CAF
+ASEC Mimosas | Copa Confederación de la CAF
+Enyimba | Copa Confederación de la CAF
+Zamalek | Copa Confederación de la CAF
 
 
+Venezia | Serie B
+Como | Serie B
 
 
 La Superliga Suiza (Swiss Super League)
@@ -407,6 +415,8 @@ SL Benfica B | Liga Portugal 2
 Sporting CP B | Liga Portugal 2
 Leixões | Liga Portugal 2
 Felgueiras | Liga Portugal 2
+Mafra | Liga Portugal 2
+Marítimo | Liga Portugal 2
 
 
 Eredivisie (Holanda)
@@ -490,7 +500,9 @@ Ajaccio| Ligue 1
 Brest| Ligue 1 
 Auxerre| Ligue 1 
 Troyes| Ligue 1 
-Metz| Ligue 1 
+Metz| Ligue 1
+Saint-Étienne | Ligue 1
+Olympique Marseille | Ligue 1
 
 
 
