@@ -201,7 +201,6 @@ Andorra | LaLiga Hypermotion
 Burgos | LaLiga Hypermotion
 Eibar | LaLiga Hypermotion
 Elche | LaLiga Hypermotion
-Espanyol | LaLiga Hypermotion
 Ferrol | LaLiga Hypermotion
 Huesca | LaLiga Hypermotion
 Levante | LaLiga Hypermotion
@@ -210,7 +209,6 @@ Mirandés | LaLiga Hypermotion
 Racing Santander | LaLiga Hypermotion
 Racing de Ferrol | LaLiga Hypermotion
 Real Oviedo | LaLiga Hypermotion
-Real Valladolid | LaLiga Hypermotion
 Sporting Gijón | LaLiga Hypermotion
 Tenerife | LaLiga Hypermotion
 Villarreal B | LaLiga Hypermotion
@@ -565,7 +563,6 @@ Trabzonspor| Süper Lig
 
 Liga Española (LaLiga)
 Alavés| LaLiga
-Almería| LaLiga
 Athletic Club| LaLiga
 Atlético de Madrid| LaLiga
 Barcelona| LaLiga
@@ -573,7 +570,6 @@ Cádiz| LaLiga
 Celta de Vigo| LaLiga
 Getafe| LaLiga
 Girona| LaLiga
-Granada| LaLiga
 Las Palmas| LaLiga
 Mallorca| LaLiga
 Osasuna| LaLiga
@@ -586,6 +582,7 @@ Valencia| LaLiga
 Villarreal| LaLiga
 Real Valladolid | LaLiga
 Atlético Madrid | LaLiga
+Leganés | LaLiga
 
 
 
