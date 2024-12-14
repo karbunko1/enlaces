@@ -24,6 +24,8 @@ Udinese| Serie A
 Verona| Serie A
 Internazionale | Serie A
 Parma | Serie A
+Sampdoria | Serie A
+Spezia | Serie A
 
 
 
