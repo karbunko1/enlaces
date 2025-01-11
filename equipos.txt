@@ -1,3 +1,17 @@
+
+
+octavos de final de la Copa del Rey
+Pontevedra CF | Getafe CF
+Ourense CF | Valencia CF
+UD Almería | CD Leganés
+Elche CF | Atlético de Madrid
+Real Madrid | Celta de Vigo
+FC Barcelona | Real Betis
+Real Sociedad | Rayo Vallecano
+Athletic de Bilbao | Osasuna
+
+
+
 Pisa VS Bari 1908 | Serie B
 Karlsruher SC VS Jahn Regensburg | 2ª Bundesliga
 
@@ -580,6 +594,8 @@ Leganés | LaLiga
 
 
 Liga Alemana (Bundesliga)
+Borussia M'gladbach | Bundesliga
+Bayern München  | Bundesliga
 Freiburg | Bundesliga
 Wolfsburg | Bundesliga
 Augsburgo | Bundesliga
