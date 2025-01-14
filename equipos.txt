@@ -1,14 +1,14 @@
 
 
-octavos de final de la Copa del Rey
-Pontevedra CF | Getafe CF
-Ourense CF | Valencia CF
-UD Almería | CD Leganés
-Elche CF | Atlético de Madrid
-Real Madrid | Celta de Vigo
-FC Barcelona | Real Betis
-Real Sociedad | Rayo Vallecano
-Athletic de Bilbao | Osasuna
+octavos de final de la  |Copa del Rey
+Pontevedra VS Getafe CF | Copa del Rey 
+Ourense  |  Copa del Rey 
+UD Almería VS CD Leganés | Copa del Rey 
+Elche CF VS Atlético de Madrid | Copa del Rey 
+Real Madrid VS Celta |  Copa del Rey 
+Barcelona VS Betis |  Copa del Rey 
+Real Sociedad VS Rayo Vallecano | Copa del Rey 
+Athletic de Bilbao VS  Osasuna | Copa del Rey 
 
 
 
@@ -17,6 +17,8 @@ Karlsruher SC VS Jahn Regensburg | 2ª Bundesliga
 
 
 Liga Italiana (Serie A)
+Como | Serie A
+Milan | Serie A
 AC Milan| Serie A
 AS Roma| Serie A
 Atalanta| Serie A
