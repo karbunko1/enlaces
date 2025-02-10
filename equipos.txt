@@ -166,6 +166,8 @@ Rangers | Scottish Premiership
 
 
 Segunda División Española (LaLiga Hypermotion)
+Oviedo | LaLiga Hypermotion
+Eldense | LaLiga Hypermotion
 Albacete | LaLiga Hypermotion
 Alcorcón | LaLiga Hypermotion
 Andorra | LaLiga Hypermotion
@@ -175,7 +177,6 @@ Elche | LaLiga Hypermotion
 Ferrol | LaLiga Hypermotion
 Huesca | LaLiga Hypermotion
 Levante | LaLiga Hypermotion
-Leganés | LaLiga Hypermotion
 Mirandés | LaLiga Hypermotion
 Racing Santander | LaLiga Hypermotion
 Racing de Ferrol | LaLiga Hypermotion
