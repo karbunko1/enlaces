@@ -4,6 +4,9 @@ Pisa VS Bari 1908 | Serie B
 Karlsruher SC VS Jahn Regensburg | 2ª Bundesliga
 
 
+
+
+
 Liga Italiana (Serie A)
 Como | Serie A
 Milan | Serie A
@@ -481,6 +484,10 @@ Olympique Marseille | Ligue 1
 
 
 Premier League (Inglaterra)
+West Ham| Premier League
+Tottenham| Premier League
+Brighton| Premier League
+Newcastle| Premier League
 Manchester City| Premier League
 Arsenal| Premier League
 Manchester United| Premier League
