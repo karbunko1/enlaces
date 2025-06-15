@@ -1,6 +1,14 @@
 Mundial de clubs
 Al Ahly | Mundial de clubs
 Inter Miami | Mundial de clubs
+Bayern München | Mundial de clubs
+Auckland City | Mundial de clubs
+PSG | Mundial de clubs
+Atlético Madrid | Mundial de clubs
+Palmeiras | Mundial de clubs
+Porto | Mundial de clubs
+
+
 
 
 Pisa VS Bari 1908 | Serie B
@@ -572,7 +580,7 @@ Leganés | LaLiga
 
 Liga Alemana (Bundesliga)
 Borussia M'gladbach | Bundesliga
-Bayern München  | Bundesliga
+  | Bundesliga
 Freiburg | Bundesliga
 Wolfsburg | Bundesliga
 Augsburgo | Bundesliga
