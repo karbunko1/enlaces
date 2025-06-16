@@ -7,6 +7,12 @@ PSG | Mundial de clubs
 Atlético Madrid | Mundial de clubs
 Palmeiras | Mundial de clubs
 Porto | Mundial de clubs
+Chelsea | Mundial de clubs
+Los Angeles FC | Mundial de clubs
+Flamengo | Mundial de clubs
+ES Tunis | Mundial de clubs
+Boca Juniors | Mundial de clubs
+Benfica | Mundial de clubs
 
 
 
@@ -206,7 +212,7 @@ Córdoba(esp) | LaLiga Hypermotion
 Liga Brasileña (Serie A)
 Botafogo | Brasil Serie A
 Palmeiras | Brasil Serie A
-Flamengo | Brasil Serie A
+ | Brasil Serie A
 Grêmio | Brasil Serie A
 Atlético Mineiro | Brasil Serie A
 Fluminense | Brasil Serie A
@@ -325,7 +331,7 @@ Atlético San Luis | Liga MX
 
 Liga Argentina (Primera División)
 River Plate | Argentina Primera División
-Boca Juniors | Argentina Primera División
+ | Argentina Primera División
 Racing Club | Argentina Primera División
 Independiente | Argentina Primera División
 San Lorenzo | Argentina Primera División
@@ -503,7 +509,7 @@ Manchester City| Premier League
 Arsenal| Premier League
 Manchester United| Premier League
 Liverpool| Premier League
-Chelsea| Premier League
+| Premier League
 Tottenham Hotspur| Premier League
 Newcastle United| Premier League
 Aston Villa| Premier League
