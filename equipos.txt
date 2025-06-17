@@ -13,6 +13,14 @@ Flamengo | Mundial de clubs
 ES Tunis | Mundial de clubs
 Boca Juniors | Mundial de clubs
 Benfica | Mundial de clubs
+Fluminense | Mundial de clubs
+Borussia Dortmund | Mundial de clubs
+River Plate  | Mundial de clubs
+Urawa Reds | Mundial de clubs
+Monterrey | Mundial de clubs
+Internazionale | Mundial de clubs
+Ulsan | Mundial de clubs
+Mamelodi Sundowns | Mundial de clubs
 
 
 
@@ -46,7 +54,7 @@ Sassuolo| Serie A
 Torino| Serie A
 Udinese| Serie A
 Verona| Serie A
-Internazionale | Serie A
+| Serie A
 Parma | Serie A
 Sampdoria | Serie A
 Spezia | Serie A
@@ -215,7 +223,7 @@ Palmeiras | Brasil Serie A
  | Brasil Serie A
 Grêmio | Brasil Serie A
 Atlético Mineiro | Brasil Serie A
-Fluminense | Brasil Serie A
+ | Brasil Serie A
 São Paulo | Brasil Serie A
 Internacional | Brasil Serie A
 Athletico Paranaense | Brasil Serie A
@@ -306,7 +314,7 @@ Liga Mexicana (Liga MX)
 América | Liga MX
 Guadalajara (Chivas) | Liga MX
 Tigres UANL | Liga MX
-Monterrey | Liga MX
+ | Liga MX
 Cruz Azul | Liga MX
 Pumas UNAM | Liga MX
 Toluca | Liga MX
@@ -330,7 +338,7 @@ Atlético San Luis | Liga MX
 
 
 Liga Argentina (Primera División)
-River Plate | Argentina Primera División
+ | Argentina Primera División
  | Argentina Primera División
 Racing Club | Argentina Primera División
 Independiente | Argentina Primera División
