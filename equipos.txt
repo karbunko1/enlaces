@@ -21,6 +21,14 @@ Monterrey | Mundial de clubs
 Internazionale | Mundial de clubs
 Ulsan | Mundial de clubs
 Mamelodi Sundowns | Mundial de clubs
+Manchester City | Mundial de clubs
+Wydad Casablanca | Mundial de clubs
+Real Madrid | Mundial de clubs
+Al Hilal | Mundial de clubs
+Pachuca | Mundial de clubs
+Salzburg | Mundial de clubs
+Al Ain | Mundial de clubs
+Juventus | Mundial de clubs
 
 
 
@@ -44,7 +52,7 @@ Empoli| Serie A
 Fiorentina| Serie A
 Genoa| Serie A
 Inter de Milán| Serie A
-Juventus| Serie A
+| Serie A
 Lazio| Serie A
 Lecce| Serie A
 Monza| Serie A
@@ -105,8 +113,8 @@ Esteghlal | AFC Liga de Campeones Élite
 Al Nassr | AFC Liga de Campeones Élite
 Al Sadd | AFC Liga de Campeones Élite
 Pakhtakor | AFC Liga de Campeones Élite
-Al Ain | AFC Liga de Campeones Élite
-Al Hilal | AFC Liga de Campeones Élite
+ | AFC Liga de Campeones Élite
+ | AFC Liga de Campeones Élite
 Al Gharafa | AFC Liga de Campeones Élite
 
 
@@ -319,7 +327,7 @@ Cruz Azul | Liga MX
 Pumas UNAM | Liga MX
 Toluca | Liga MX
 León | Liga MX
-Pachuca | Liga MX
+ | Liga MX
 Santos Laguna | Liga MX
 Atlas | Liga MX
 Tijuana | Liga MX
@@ -513,7 +521,7 @@ West Ham| Premier League
 Tottenham| Premier League
 Brighton| Premier League
 Newcastle| Premier League
-Manchester City| Premier League
+| Premier League
 Arsenal| Premier League
 Manchester United| Premier League
 Liverpool| Premier League
@@ -581,7 +589,7 @@ Mallorca| LaLiga
 Osasuna| LaLiga
 Rayo Vallecano| LaLiga
 Real Betis| LaLiga
-Real Madrid| LaLiga
+| LaLiga
 Real Sociedad| LaLiga
 Sevilla| LaLiga
 Valencia| LaLiga
