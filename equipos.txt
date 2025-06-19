@@ -595,7 +595,7 @@ Sevilla| LaLiga
 Valencia| LaLiga
 Villarreal| LaLiga
 Real Valladolid | LaLiga
-Atlético Madrid | LaLiga
+ | LaLiga
 Leganés | LaLiga
 
 
