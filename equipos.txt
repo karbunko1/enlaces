@@ -608,7 +608,7 @@ Wolfsburg | Bundesliga
 Augsburgo | Bundesliga
 Bayer Leverkusen| Bundesliga
 Bayern de Múnich| Bundesliga
-Borussia Dortmund| Bundesliga
+| Bundesliga
 Borussia Mönchengladbach| Bundesliga
 Colonia| Bundesliga
 Darmstadt| Bundesliga
