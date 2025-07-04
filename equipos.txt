@@ -227,7 +227,7 @@ Córdoba(esp) | LaLiga Hypermotion
 
 Liga Brasileña (Serie A)
 Botafogo | Brasil Serie A
-Palmeiras | Brasil Serie A
+ | Brasil Serie A
  | Brasil Serie A
 Grêmio | Brasil Serie A
 Atlético Mineiro | Brasil Serie A
