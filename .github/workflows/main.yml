@@ -37,9 +37,12 @@ jobs:
         
       # 6. Preparar el artefacto para GitHub Pages
       - name: Subir artefacto para GitHub Pages
-        uses: actions/upload-pages-artifact@v3 # <-- VERSIÓN ACTUALIZADA
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Especificar la ruta de los archivos a subir. '.' significa el directorio raíz.
+          path: '.' # <-- ¡AQUÍ ESTÁ LA CORRECCIÓN FINAL!
 
       # 7. Desplegar en GitHub Pages
       - name: Desplegar en GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # <-- VERSIÓN ACTUALIZADA
+        uses: actions/deploy-pages@v4
