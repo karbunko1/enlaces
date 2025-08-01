@@ -1,0 +1,59 @@
+# .github/workflows/actualizar_agenda.yml
+
+name: Actualizar Agenda Deportiva Automáticamente
+
+# --- Disparadores (Triggers) ---
+on:
+  # 1. Ejecución programada (cada 5 horas)
+  schedule:
+    # Formato CRON: "Minuto Hora Día Mes DíaDeLaSemana"
+    # '0 */5 * * *' significa: en el minuto 0, cada 5 horas, todos los días.
+    - cron: '0 */5 * * *'
+
+  # 2. Ejecución manual (para pruebas)
+  workflow_dispatch:
+
+# --- Tareas (Jobs) ---
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+      # 1. Descargar el código del repositorio
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      # 2. Configurar el entorno de Python
+      - name: Configurar Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      # 3. Instalar las dependencias del script
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      # 4. Ejecutar el script para generar el HTML
+      - name: Ejecutar script de scraping y generación de HTML
+        run: python uno_solo.py # <-- ¡AQUÍ ESTÁ EL CAMBIO!
+
+      # 5. Renombrar archivo para GitHub Pages (opcional, pero recomendado)
+      - name: Renombrar archivo de salida a index.html
+        run: mv agenda_deportiva.html index.html
+        
+      # 6. Preparar el artefacto para GitHub Pages
+      - name: Subir artefacto para GitHub Pages
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'
+
+      # 7. Desplegar en GitHub Pages
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
