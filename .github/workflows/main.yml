@@ -1,10 +1,9 @@
-# .github/workflows/actualizar_agenda.yml
-
 name: Actualizar Agenda Deportiva Automáticamente
 
 on:
   schedule:
-    - cron: '0 */5 * * *'
+    # Ejecutar cada 2 horas (a las 00:00, 02:00, 04:00, etc.)
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -40,7 +39,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Especificar la ruta de los archivos a subir. '.' significa el directorio raíz.
-          path: '.' # <-- ¡AQUÍ ESTÁ LA CORRECCIÓN FINAL!
+          path: '.'
 
       # 7. Desplegar en GitHub Pages
       - name: Desplegar en GitHub Pages
